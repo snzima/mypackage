@@ -1,0 +1,10 @@
+README.md
+setup.py
+awepack/__init__.py
+awepack/recursion.py
+awepack/sorting.py
+awepack.egg-info/PKG-INFO
+awepack.egg-info/SOURCES.txt
+awepack.egg-info/dependency_links.txt
+awepack.egg-info/requires.txt
+awepack.egg-info/top_level.txt
